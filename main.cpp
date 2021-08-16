@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	int num_pence {};
+    int num_pence {};
     int num_pounds {};
     int num_fifty_pence {};
     int num_twenty_pence {};
@@ -41,5 +41,5 @@ int main()
     cout << "2ps: " << num_two_pence << endl;
     cout << "Pennies: " << num_pence << endl;
     
-	return 0;
+    return 0;
 }
